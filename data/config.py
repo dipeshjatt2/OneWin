@@ -16,7 +16,7 @@ PROXY_TYPE = "socks5" # http/socks5
 WORKDIR = "sessions/"
 
 # использование прокси
-USE_PROXY = false # True/False
+USE_PROXY = False # True/False
 
 # до какого уровня прокачивать
 UPGRADE_LEVEL = 20
