@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 1111
-API_HASH = 'api_hash'
+API_ID = 22118129
+API_HASH = '43c66e3314921552d9330a4b05b18800'
 
 USE_TG_BOT = False # True if you want use tg, else False
 BOT_TOKEN = '283993:kdmioieiweikiokeocki4okew' # API TOKEN get in @BotFather
@@ -16,7 +16,7 @@ PROXY_TYPE = "socks5" # http/socks5
 WORKDIR = "sessions/"
 
 # использование прокси
-USE_PROXY = True # True/False
+USE_PROXY = false # True/False
 
 # до какого уровня прокачивать
 UPGRADE_LEVEL = 20
